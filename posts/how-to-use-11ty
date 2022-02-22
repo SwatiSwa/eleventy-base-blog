@@ -1,3 +1,12 @@
+---
+title: How To Use 11ty.
+description: This is a post on My Blog about agile frameworks.
+date: 2018-05-01
+tags:
+  - another tag
+layout: layouts/post.njk
+---
+
 #Agenda
 
 Learned how to use the 11ty for developing personal blog using simple markdown files.
